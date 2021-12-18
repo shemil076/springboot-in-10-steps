@@ -12,4 +12,5 @@ public class BooksController {
     public List<Book> getBooks() {
         return Arrays.asList(new Book(1, "Master spring", "Ranga"));
     }
+
 }
